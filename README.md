@@ -1,3 +1,3 @@
 console.log("Hello, World!");
-const name = "Goodweller";
-console.log(`Welcome, ${name}!`);
+const name = "my name is Daniel";
+console.log(`Welcome, ${Goodweller}!`);
